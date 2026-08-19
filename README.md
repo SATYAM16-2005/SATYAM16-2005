@@ -26,8 +26,8 @@ I'm a developer building projects across **web development** and **data/ML**, cu
 
 
 ## 📫 Reach me
-- Email: your-satyamdhiman1605@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/satyamdhiman/]
+- Email: satyamdhiman1605@gmail.com
+- LinkedIn: https://www.linkedin.com/in/satyamdhiman/
 
 ---
 ⭐️ Open to internship opportunities — feel free to reach out!
